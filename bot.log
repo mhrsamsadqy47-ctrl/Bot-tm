@@ -1,0 +1,636 @@
+2025-12-28 19:09:53,596 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 19:09:53,599 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 19:09:53,876 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 19:09:54,790 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 19:09:54,796 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 19:09:54,804 - __main__ - INFO - Master admin IDs loaded: [8389212775]
+2025-12-28 19:09:54,813 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 19:09:54,824 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 19:09:54,826 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 19:09:54,828 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 19:09:54,990 - telegram.ext.Application - INFO - Application started
+2025-12-28 19:09:55,494 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:09:55,774 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:09:56,071 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:09:56,457 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:09:57,057 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:57,371 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:57,590 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:57,803 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:58,018 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:58,215 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:58,444 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:58,821 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:59,181 - __main__ - WARNING - User 8323744335 (⁮⁮ Mustafa) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:59,444 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:59,716 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 19:09:59,717 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:09:59,981 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:10:28,615 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:10:33,682 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_accounts
+2025-12-28 19:10:35,008 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 19:10:36,683 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_tools
+2025-12-28 19:10:40,722 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 19:10:42,924 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_logs
+2025-12-28 19:10:43,112 - __main__ - INFO - Log file requested by admin 8389212775
+2025-12-28 19:10:48,613 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 19:17:05,568 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 19:17:05,573 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 19:17:05,884 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 19:17:07,271 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 19:17:07,285 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 19:17:07,293 - __main__ - INFO - Master admin IDs loaded: [8389212775]
+2025-12-28 19:17:07,302 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 19:17:07,321 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 19:17:07,326 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 19:17:07,327 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 19:17:07,519 - telegram.ext.Application - INFO - Application started
+2025-12-28 19:17:08,100 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:17:08,496 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 19:17:25,972 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_tools
+2025-12-28 19:17:27,986 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 19:17:30,851 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 19:17:47,706 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 19:36:23,700 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 19:36:23,704 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 19:36:23,983 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 19:36:24,147 - telegram.ext - ERROR - Network Retry Loop (Bootstrap Initialize Application): Failed run number 0 of 0. Aborting.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 101, in handle_async_request
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: All connection attempts failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: All connection attempts failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 134, in network_retry_loop
+    await do_action()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 109, in do_action
+    await action_cb()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 489, in initialize
+    await self.bot.initialize()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 318, in initialize
+    await super().initialize()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 854, in initialize
+    await self.get_me()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 1999, in get_me
+    return await super().get_me(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 985, in get_me
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 303, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ConnectError: All connection attempts failed
+2025-12-28 20:39:56,543 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 20:39:56,549 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 20:39:56,743 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 20:39:58,004 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 20:39:58,017 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 20:39:58,026 - __main__ - INFO - Master admin IDs loaded: [8389212775]
+2025-12-28 20:39:58,033 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 20:39:58,043 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 20:39:58,046 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 20:39:58,046 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 20:39:58,227 - telegram.ext.Application - INFO - Application started
+2025-12-28 20:40:11,699 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 20:40:40,983 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 20:40:40,985 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 20:40:41,206 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 20:40:41,799 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 20:40:41,805 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 20:40:41,813 - __main__ - INFO - Master admin IDs loaded: [8389212775]
+2025-12-28 20:40:41,822 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 20:40:41,832 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 20:40:41,835 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 20:40:41,835 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 20:40:42,013 - telegram.ext.Application - INFO - Application started
+2025-12-28 20:40:52,213 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 20:53:58,700 - __main__ - WARNING - User 5894635710 (𝐀 𝐇 𝐑 𝐈 𝐌 𝐀) tried an admin command/feature with admin_list: [8389212775].
+2025-12-28 22:01:57,597 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 22:01:57,600 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 22:01:57,934 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 22:01:59,181 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 22:01:59,203 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 22:01:59,219 - __main__ - INFO - Master admin IDs loaded: [8389212775]
+2025-12-28 22:01:59,233 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 22:01:59,259 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 22:01:59,262 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 22:01:59,263 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 22:01:59,437 - telegram.ext.Application - INFO - Application started
+2025-12-28 22:07:35,364 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:07:37,497 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:07:39,583 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 22:10:29,701 - __main__ - INFO - Admin 5894635710 added to DB by 8389212775. New master list: [5894635710, 8389212775]
+2025-12-28 22:11:35,536 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [5894635710, 8389212775].
+2025-12-28 22:12:08,295 - __main__ - WARNING - User 7410986857 (Amir) tried an admin command/feature with admin_list: [5894635710, 8389212775].
+2025-12-28 22:12:47,246 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:19:04,078 - __main__ - WARNING - User 7541842288 (ббадщл) tried an admin command/feature with admin_list: [5894635710, 8389212775].
+2025-12-28 22:34:27,543 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 22:34:27,547 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 22:34:27,822 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 22:34:29,252 - __main__ - INFO - ربات در حال انجام اقدامات پس از راه‌اندازی اولیه...
+2025-12-28 22:34:29,285 - __main__ - INFO - API Keys loaded from config.py as no DB entries found: 30916028
+2025-12-28 22:34:29,310 - __main__ - INFO - Master admin IDs loaded: [5894635710, 8389212775]
+2025-12-28 22:34:29,334 - __main__ - INFO - Loaded 0 spam keywords from DB.
+2025-12-28 22:34:29,353 - __main__ - INFO - Default operation delay set to: 1.5s
+2025-12-28 22:34:29,358 - __main__ - INFO - پوشه data/sessions/ و logs/ بررسی/ایجاد شدند.
+2025-12-28 22:34:29,359 - __main__ - INFO - اقدامات پس از راه‌اندازی اولیه با موفقیت انجام شد.
+2025-12-28 22:34:29,517 - telegram.ext.Application - INFO - Application started
+2025-12-28 22:39:14,959 - __main__ - WARNING - User 7276875605 (Skey) tried an admin command/feature with admin_list: [5894635710, 8389212775].
+2025-12-28 22:39:56,529 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_logs
+2025-12-28 22:39:56,749 - __main__ - INFO - Log file requested by admin 8389212775
+2025-12-28 22:40:34,468 - __main__ - WARNING - User 7541842288 (ббадщл) tried an admin command/feature with admin_list: [5894635710, 8389212775].
+2025-12-28 22:41:34,263 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:41:38,756 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_bot_operations
+2025-12-28 22:41:40,874 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 22:41:42,690 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 22:41:50,164 - __main__ - INFO - Admin 7276875605 added to DB by 8389212775. New master list: [7276875605, 5894635710, 8389212775]
+2025-12-28 22:42:06,267 - __main__ - INFO - Admin Skey (ID: 7276875605) started the bot.
+2025-12-28 22:42:10,520 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_bot_operations
+2025-12-28 22:42:19,520 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:42:20,367 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:42:20,981 - __main__ - INFO - MenuRouter: Message not modified for general_back_to_main_menu.
+2025-12-28 22:42:22,026 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_tools
+2025-12-28 22:42:28,673 - __main__ - INFO - Tool entry: ریپورت کانال/گروه (Prefix: reporter_chat). User: 7276875605
+2025-12-28 22:42:36,141 - __main__ - INFO - User 7276875605 cancelled conv: reporter_chat_tool_conv (ToolPrefix: reporter_chat, BotOpPrefix: N/A).
+2025-12-28 22:42:36,144 - __main__ - INFO - Cleared user_data for conv 'reporter_chat_tool_conv'.
+2025-12-28 22:42:40,564 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:42:44,092 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 22:43:13,051 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_logs
+2025-12-28 22:43:13,240 - __main__ - INFO - Log file requested by admin 7276875605
+2025-12-28 22:44:16,948 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_help
+2025-12-28 22:44:18,068 - __main__ - INFO - Admin Skey (ID: 7276875605) started the bot.
+2025-12-28 22:44:23,712 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_accounts
+2025-12-28 22:44:27,376 - __main__ - INFO - Using random API ID: 30916028 for new account addition.
+2025-12-28 22:45:35,658 - __main__ - INFO - Connecting Telethon for +989374763896 (Cat: iranian) using API ID: 30916028...
+2025-12-28 22:45:35,702 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-12-28 22:45:37,549 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-12-28 22:45:38,145 - __main__ - INFO - Connected. Sending code to +989374763896.
+2025-12-28 22:45:38,395 - telethon.client.users - INFO - Phone migrated to 4
+2025-12-28 22:45:38,578 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-12-28 22:45:38,854 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-12-28 22:45:38,858 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-12-28 22:45:38,861 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-12-28 22:45:40,743 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-12-28 22:46:06,497 - __main__ - INFO - Checking code 41562 for +989374763896.
+2025-12-28 22:46:07,469 - __main__ - INFO - Sign_in successful (no 2FA) for +989374763896, User ID: 8233929590, Username: None
+2025-12-28 22:46:07,634 - data.database_ops - INFO - Account +989374763896 (Category: iranian, User ID: 8233929590) successfully added to database. Session: data/sessions/989374763896.session
+2025-12-28 22:46:08,014 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-12-28 22:46:08,017 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-12-28 22:46:14,734 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:46:24,635 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_accounts
+2025-12-28 22:46:27,742 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:46:30,731 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_bot_operations
+2025-12-28 22:46:39,444 - __main__ - INFO - User 7276875605 cancelled conv: bot_op_spam_channel_conv (ToolPrefix: N/A, BotOpPrefix: bot_op_spam_channel).
+2025-12-28 22:46:39,444 - __main__ - INFO - Cleared user_data for conv 'bot_op_spam_channel_conv'.
+2025-12-28 22:46:41,679 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:47:09,212 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 22:47:24,866 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_settings_from_action
+2025-12-28 22:47:28,306 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_settings_from_action
+2025-12-28 22:47:32,310 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_settings_from_action
+2025-12-28 22:47:34,540 - __main__ - INFO - Admin Skey (ID: 7276875605) started the bot.
+2025-12-28 22:47:37,657 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_bot_operations
+2025-12-28 22:47:41,500 - __main__ - INFO - User 7276875605 cancelled conv: settings_conv (ToolPrefix: N/A, BotOpPrefix: N/A).
+2025-12-28 22:47:41,500 - __main__ - INFO - Cleared user_data for conv 'settings_conv'.
+2025-12-28 22:47:45,309 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_tools
+2025-12-28 22:47:55,264 - __main__ - INFO - Tool entry: ریپورت کانال/گروه (Prefix: reporter_chat). User: 7276875605
+2025-12-28 22:47:57,496 - __main__ - INFO - Tool reporter_chat: 1 active accounts found for category 'اکانت‌های ایرانی'.
+2025-12-28 22:48:07,655 - __main__ - INFO - Tool reporter_chat: User selected 'use_all' accounts.
+2025-12-28 22:49:29,855 - __main__ - INFO - Tool reporter_chat: Using all 1 filtered accounts.
+2025-12-28 22:49:30,137 - __main__ - INFO - ReporterChat: Processing +989374763896 to report @Cardano12
+2025-12-28 22:49:30,138 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-12-28 22:49:30,146 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-12-28 22:49:31,771 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-12-28 22:49:31,775 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-12-28 22:51:45,574 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:52:52,408 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_tools
+2025-12-28 22:52:59,998 - __main__ - INFO - MenuRouter: Admin Skey pressed: general_back_to_main_menu
+2025-12-28 22:53:03,192 - __main__ - INFO - MenuRouter: Admin Skey pressed: main_menu_bot_operations
+2025-12-28 22:53:42,138 - __main__ - ERROR - Bot Spam Group: BadRequest accessing group https://t.me/+HOZjWMKa7Z1hYmY0: Chat not found
+2025-12-28 22:54:51,219 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 22:54:52,867 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 22:54:54,170 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:54:56,794 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_accounts
+2025-12-28 22:55:14,291 - __main__ - INFO - User 8389212775 cancelled conv: Unknown Conv (ToolPrefix: N/A, BotOpPrefix: N/A).
+2025-12-28 22:55:14,294 - __main__ - INFO - Cleared user_data for conv 'Unknown Conv'.
+2025-12-28 22:55:17,204 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_backup_restore_options
+2025-12-28 22:55:21,923 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: backup_create_now
+2025-12-28 22:55:22,145 - __main__ - INFO - Backup creation requested by admin 8389212775
+2025-12-28 22:55:22,253 - __main__ - INFO - Database file 'data/database.db' added to backup.
+2025-12-28 22:55:22,264 - __main__ - INFO - 1 session files added to backup.
+2025-12-28 22:55:22,265 - __main__ - INFO - Backup ZIP file created: bot_backup_temp/bot_backup_2025-12-28_22-55-22.zip
+2025-12-28 22:55:23,115 - __main__ - INFO - Temporary backup directory bot_backup_temp deleted.
+2025-12-28 22:55:29,310 - __main__ - INFO - Restore file 'bot_backup_2025-12-28_22-55-22.zip' received and saved to 'bot_backup_temp/bot_backup_2025-12-28_22-55-22.zip' by admin 8389212775
+2025-12-28 22:55:32,745 - __main__ - INFO - Extracted backup content to bot_backup_temp/extracted_backup
+2025-12-28 22:55:32,805 - __main__ - INFO - Current database backed up to data/database.db.before_restore_20251228225532
+2025-12-28 22:55:32,841 - __main__ - INFO - Database restored from bot_backup_temp/extracted_backup/database.db to data/database.db
+2025-12-28 22:55:32,904 - __main__ - INFO - 1 session files restored to data/sessions/
+2025-12-28 22:55:33,170 - __main__ - INFO - Temporary restore directory bot_backup_temp deleted.
+2025-12-28 22:55:37,154 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 22:56:05,747 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 22:58:25,247 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_bot_operations
+2025-12-28 22:58:30,027 - __main__ - INFO - User 8389212775 cancelled conv: bot_op_adv_remove_channel_members_conv (ToolPrefix: N/A, BotOpPrefix: bot_op_adv_remove_channel_members).
+2025-12-28 22:58:30,027 - __main__ - INFO - Cleared user_data for conv 'bot_op_adv_remove_channel_members_conv'.
+2025-12-28 22:58:36,254 - __main__ - INFO - User 8389212775 cancelled conv: bot_op_add_admin_channel_conv (ToolPrefix: N/A, BotOpPrefix: bot_op_add_admin_channel).
+2025-12-28 22:58:36,255 - __main__ - INFO - Cleared user_data for conv 'bot_op_add_admin_channel_conv'.
+2025-12-28 22:58:38,609 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 22:58:41,380 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_tools
+2025-12-28 22:58:44,851 - __main__ - INFO - Tool entry: ارتقا به ادمین در گروه (با اکانت‌ها) (Prefix: add_admin). User: 8389212775
+2025-12-28 22:58:46,423 - __main__ - INFO - User 8389212775 cancelled conv: add_admin_tool_conv (ToolPrefix: add_admin, BotOpPrefix: N/A).
+2025-12-28 22:58:46,423 - __main__ - INFO - Cleared user_data for conv 'add_admin_tool_conv'.
+2025-12-28 22:58:53,301 - __main__ - INFO - Tool entry: ریپورت کردن کاربر (Prefix: reporter_user). User: 8389212775
+2025-12-28 22:59:05,144 - __main__ - INFO - User 8389212775 cancelled conv: reporter_user_tool_conv (ToolPrefix: reporter_user, BotOpPrefix: N/A).
+2025-12-28 22:59:05,144 - __main__ - INFO - Cleared user_data for conv 'reporter_user_tool_conv'.
+2025-12-28 22:59:10,188 - __main__ - ERROR - Update:
+Update(callback_query=CallbackQuery(chat_instance='-5674191412211504413', data='reporter_user_cancel_to_tools_menu', from_user=User(first_name='⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a', id=8389212775, is_bot=False, language_code='fa', last_name='\u200c⛧\u200c \u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e', username='Pv_2027'), id='8361278400706601467', message=Message(channel_chat_created=False, chat=Chat(first_name='⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a', id=8389212775, last_name='\u200c⛧\u200c \u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e\u206e\u206e\u206e\u206a\u206c\u206e', type=<ChatType.PRIVATE>, username='Pv_2027'), date=datetime.datetime(2025, 12, 28, 19, 26, 6, tzinfo=datetime.timezone.utc), delete_chat_photo=False, edit_date=datetime.datetime(2025, 12, 28, 19, 28, 53, tzinfo=datetime.timezone.utc), from_user=User(first_name='𝗕 𝗞 𝗥𝗘𝗔𝗣𝗢𝗥𝗧𝗘𝗥', id=8474837931, is_bot=True, username='BKRPnbot'), group_chat_created=False, message_id=691, reply_markup=InlineKeyboardMarkup(inline_keyboard=((InlineKeyboardButton(callback_data='reporter_user_filter_iranian', text='🇮🇷 فقط اکانت\u200cهای ایرانی'),), (InlineKeyboardButton(callback_data='reporter_user_filter_foreign', text='🌍 فقط اکانت\u200cهای خارجی'),), (InlineKeyboardButton(callback_data='reporter_user_filter_all', text='💠 همه اکانت\u200cها'),), (InlineKeyboardButton(callback_data='reporter_user_cancel_to_tools_menu', text='⬅️ لغو و بازگشت'),))), supergroup_chat_created=False, text='شما ابزار «ریپورت کردن کاربر» را انتخاب کرده\u200cاید.\n۱. لطفاً مشخص کنید از کدام دسته اکانت\u200cها می\u200cخواهید برای این عملیات استفاده کنید:')), update_id=301314377)
+
+Context Error:
+Timed out
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 101, in handle_async_request
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 156, in _connect
+    stream = await stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/anyio.py", line 67, in start_tls
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 1315, in process_update
+    await coroutine
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/conversationhandler.py", line 843, in handle_update
+    new_state: object = await handler.handle_update(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_handlers/basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/Download/Telegram/xyz/main.py", line 124, in wrapper
+    return await func(update, context, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/Download/Telegram/xyz/main.py", line 693, in cancel_conversation
+    await query.answer()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_callbackquery.py", line 189, in answer
+    return await self.get_bot().answer_callback_query(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 972, in answer_callback_query
+    return await super().answer_callback_query(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 4360, in answer_callback_query
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 296, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2025-12-28 22:59:11,051 - __main__ - INFO - User 8389212775 cancelled conv: Unknown Conv (ToolPrefix: N/A, BotOpPrefix: N/A).
+2025-12-28 22:59:11,051 - __main__ - INFO - Cleared user_data for conv 'Unknown Conv'.
+2025-12-28 22:59:21,205 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: general_back_to_main_menu
+2025-12-28 22:59:23,028 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_logs
+2025-12-28 22:59:23,197 - __main__ - INFO - Log file requested by admin 8389212775
+2025-12-28 23:00:18,959 - __main__ - INFO - Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ (ID: 8389212775) started the bot.
+2025-12-28 23:00:26,162 - __main__ - INFO - SETTINGS_ENTRY called. User_data: {}, Callback: main_menu_settings
+2025-12-28 23:00:42,775 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 23:00:45,129 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 23:01:04,109 - __main__ - WARNING - User 7541842288 (ббадщл) tried an admin command/feature with admin_list: [7276875605, 5894635710, 8389212775].
+2025-12-28 23:05:47,686 - __main__ - INFO - MenuRouter: Admin ⁰⁹⁸𝘿𝙄𝙎𝘾𝙐𝙏⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪ ‌⛧‌ ⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮⁮⁮⁮⁪⁬⁮ pressed: main_menu_settings_from_action
+2025-12-28 23:11:12,914 - __main__ - ERROR - Update:
+None
+
+Context Error:
+httpx.ReadError: 
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 136, in handle_async_request
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 134, in network_retry_loop
+    await do_action()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 127, in do_action
+    action_cb_task.result()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_updater.py", line 340, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 676, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 4780, in get_updates
+    await self._post(
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 303, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2025-12-28 23:16:31,105 - data.database_setup - INFO - دیتابیس و جداول ضروری (accounts, bot_settings) با موفقیت بررسی/ایجاد شدند.
+2025-12-28 23:16:31,106 - __main__ - INFO - دیتابیس با موفقیت بررسی/ایجاد شد.
+2025-12-28 23:16:31,387 - __main__ - INFO - ربات در حال راه‌اندازی (Polling)...
+2025-12-28 23:16:31,536 - telegram.ext - ERROR - Network Retry Loop (Bootstrap Initialize Application): Failed run number 0 of 0. Aborting.
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 101, in handle_async_request
+    raise exc
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_async/connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_backends/anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: All connection attempts failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: All connection attempts failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 134, in network_retry_loop
+    await do_action()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_utils/networkloop.py", line 109, in do_action
+    await action_cb()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_application.py", line 489, in initialize
+    await self.bot.initialize()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 318, in initialize
+    await super().initialize()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 854, in initialize
+    await self.get_me()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 1999, in get_me
+    return await super().get_me(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 985, in get_me
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/ext/_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/telegram/request/_httpxrequest.py", line 303, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ConnectError: All connection attempts failed
